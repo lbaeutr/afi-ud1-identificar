@@ -18,7 +18,8 @@ B. Antes de tocar nada
 C. Al decidir qué se adquiere y en qué orden
 
 12. Inventariar las fuentes dentro y fuera del equipo (servidores, logs, nube, ISP, copias de seguridad), saber de quién es cada una y tener alternativas si no son accesibles. RFC 3227 §3.2 · NIST §3.1.1 · ENFSI §9.4
-13. Fijar el orden: volatilidad de cada sistema, ponderada con valor probable y esfuerzo (ojo con los logs que se sobrescriben). RFC 3227 §2.1 · NIST §3.1.2
-14. Elegir la herramienta de menor impacto, lanzada desde medios protegidos; si asumo el control de un sistema vivo, asumo la responsabilidad de lo que pase. RFC 3227 §5 · ENFSI §9.2
-15. Valorar el impacto operativo, dejar el plan por escrito y, si hay muchos exhibits, anotar cuáles no se analizan. NIST §3.1.3, §3.1.2 · ENFSI §9.3
-16. Adquirir con copia bit a bit, calcular hash del original y de la copia, etiquetar (referencia, descripción, lugar, quién, cuándo), abrir la cadena de custodia y analizar solo sobre la copia; ante la duda, preservar de más. RFC 3227 §2, §3.2, §4.1 · NIST §3.1.2 · ENFSI §8.2
+13. Para cada fuente, preguntar cuánto tiempo se conserva y quién puede borrarla, y pedir por escrito su conservación a quien la controle. NIST §3.1.1, §3.1.2 · RFC 3227 §2.1
+14. Fijar el orden: volatilidad de cada sistema, ponderada con valor probable y esfuerzo (ojo con los logs que se sobrescriben). RFC 3227 §2.1 · NIST §3.1.2
+15. Elegir la herramienta de menor impacto, lanzada desde medios protegidos; si asumo el control de un sistema vivo, asumo la responsabilidad de lo que pase. RFC 3227 §5 · ENFSI §9.2
+16. Valorar el impacto operativo, dejar el plan por escrito y, si hay muchos exhibits, anotar cuáles no se analizan. NIST §3.1.3, §3.1.2 · ENFSI §9.3
+17. Adquirir con copia bit a bit, calcular hash del original y de la copia, etiquetar (referencia, descripción, lugar, quién, cuándo), abrir la cadena de custodia y analizar solo sobre la copia; ante la duda, preservar de más. RFC 3227 §2, §3.2, §4.1 · NIST §3.1.2 · ENFSI §8.2
