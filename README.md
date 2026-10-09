@@ -8,6 +8,9 @@
 
 ## Contenido
 
+## Parte 1
 - [Comparativa de normas](comparativa.md)
 - [Lista de comprobación](lista-comprobacion.md)
+
+## Parte 2
 - [Plan Almadraba](plan-almadraba.md)

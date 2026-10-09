@@ -7,11 +7,10 @@
 
 
 
-En que coinciden y en que se diferencian. Las tres van en la misma linea, hay que documentarlo todo, cuidar la cadena de custodia, no apagar el equipo sin pensar, tener las herramientas preparadas antes de llegar y asegurar primero lo que se pierde antes. La diferencia esta en desde donde se mira cada una. 
+En qué coinciden y en qué se diferencian. Las tres van en la misma línea, hay que documentarlo todo, cuidar la cadena de custodia, no apagar el equipo sin pensar, tener las herramientas preparadas antes de llegar y asegurar primero lo que se pierde antes. La diferencia está en desde dónde se mira cada una.
 
-- La RFC 3227 es la guia del tecnico que tiene delante un equipo encendido, dando un orden de volatibilidad muy concreto, pero se centra sobretodo en lo que hay dentro del equipo.
+- La RFC 3227 es la guía del técnico que tiene delante un equipo encendido, dando un orden de volatilidad muy concreto, pero se centra sobre todo en lo que hay dentro del equipo.
 
-- NIST se asoma hacia afuera y recuerda que la evidencia tambien esta en logs, en el ISP o en equipos de terceros, y que el orden de recogida no depende solo de lo volatil que sea un dato, sino tambien de su valor probable y del esfuerzo que cuesta conseguirlo.
+- NIST se asoma hacia afuera y recuerda que la evidencia también está en logs, en el ISP o en equipos de terceros, y que el orden de recogida no depende solo de lo volátil que sea un dato, sino también de su valor probable y del esfuerzo que cuesta conseguirlo.
 
-- ENFSI lo plantea como un laboratrio que trabaja con la policia, le preocupa la escena, como aislar un dispositivo con radio o wifi sin que se quede sin bateria, y prioriza segun lo que se investiga.
-
+- ENFSI lo plantea como un laboratorio que trabaja con la policía, le preocupa la escena, cómo aislar un dispositivo con radio o wifi sin que se quede sin batería, y prioriza según lo que se investiga.
