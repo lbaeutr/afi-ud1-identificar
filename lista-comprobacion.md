@@ -1,3 +1,5 @@
+# Lista de comprobación
+
 A. Al llegar
 
 1. Confirmar autorización, marco legal y quién dirige la escena; avisar a legal o policía si procede. RFC 3227 §2, §2.4 · NIST §3.1.2 · ENFSI §8.2
